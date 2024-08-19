@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+head {
+    float: left;
+    align-content: left;
+}
+nav {
+    
+    background-image:linear-gradient(to right,#085520,#096526);
+    overflow: hidden;
+    max-width: 200%;
+    margin: 0;
+  }
+  
+  nav ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li a {
+    float: left;
+    padding-left: 3%;
+  }
+  nav li b {
+    float: right;
+    padding-right: 3%;
+  }
+  
+  nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  nav b {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #1d7a41;
+  }
+  nav b:hover {
+    background-color: #1d7a41;
+  }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+
+}
+body {
+    background-image: linear-gradient(to right, #5fc089, #79c472);
+    /* Atau bisa menggunakan derajat, radial-gradient, dll. */
+  }
+
+.hero {
+    text-align: center;
+    text-decoration: none;
+    float: center;
+    margin: auto;
+    padding: auto;
+    font-family: 'copperplate gothic', fantasy;
+    font-size: 35px;
+    color: #ffffff;
+      }
+
+.intro {
+    text-align: center;
+    text-decoration: none;
+
+    float: center;
+    margin: auto;
+    padding: auto;
+    font-family: 'helvetica';
+}     
+.intro2 {
+    font-size: 29px;
+    font-family: 'copperplate gothic', fantasy;
+    color: #ffffff;
+} 
+.intro3 {
+    font: size 26px; 
+    width: 450px;
+    float: center;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-family: 'helvetica';
+    color: #ffffff;
+}
+
+div.polaroid {  
+  margin-top: 3%;
+  margin-left: 7%;
+  float: left;
+  margin: 3%;
+  padding: auto;
+  width: 26%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+div.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1%;
+  text-align: center;
+}
